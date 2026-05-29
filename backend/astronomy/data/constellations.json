@@ -1,0 +1,23 @@
+{
+  "Orion": ["Betelgeuse", "Rigel", "Bellatrix", "Alnitak", "Saiph", "Mintaka"],
+  "Cygnus": ["Deneb", "Albireo"],
+  "Lyra": ["Vega"],
+  "Bootes": ["Arcturus"],
+  "Leo": ["Regulus", "Denebola"],
+  "Scorpius": ["Antares", "Shaula"],
+  "Crux": ["Acrux", "Mimosa", "Gacrux"],
+  "Centaurus": ["Hadar", "Menkent"],
+  "Canis Major": ["Sirius", "Adhara", "Wezen"],
+  "Canis Minor": ["Procyon"],
+  "Gemini": ["Pollux", "Castor"],
+  "Taurus": ["Aldebaran", "Elnath"],
+  "Auriga": ["Capella", "Menkalinan"],
+  "Ursa Major": ["Alioth", "Dubhe", "Merak", "Phecda", "Alkaid", "Mizar"],
+  "Ursa Minor": ["Polaris", "Kochab"],
+  "Cassiopeia": ["Schedar", "Caph", "Ruchbah"],
+  "Perseus": ["Mirfak", "Algol"],
+  "Andromeda": ["Alpheratz"],
+  "Pegasus": ["Markab", "Scheat", "Enif"],
+  "Aquarius": ["Sadalsuud", "Sadalmelik"],
+  "Sagittarius": ["Kaus Australis", "Nunki", "Ascella"]
+}

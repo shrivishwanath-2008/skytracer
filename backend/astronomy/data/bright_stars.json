@@ -1,0 +1,866 @@
+[
+  {
+    "name": "Sirius",
+    "ra_hours": 6.752481,
+    "dec_deg": -16.716115,
+    "magnitude": -1.46
+  },
+  {
+    "name": "Canopus",
+    "ra_hours": 6.399198,
+    "dec_deg": -52.695661,
+    "magnitude": -0.74
+  },
+  {
+    "name": "Arcturus",
+    "ra_hours": 14.261027,
+    "dec_deg": 19.182409,
+    "magnitude": -0.05
+  },
+  {
+    "name": "Vega",
+    "ra_hours": 18.615648,
+    "dec_deg": 38.783689,
+    "magnitude": 0.03
+  },
+  {
+    "name": "Capella",
+    "ra_hours": 5.278175,
+    "dec_deg": 45.997991,
+    "magnitude": 0.08
+  },
+  {
+    "name": "Rigel",
+    "ra_hours": 5.242253,
+    "dec_deg": -8.201694,
+    "magnitude": 0.13
+  },
+  {
+    "name": "Procyon",
+    "ra_hours": 7.655042,
+    "dec_deg": 5.224993,
+    "magnitude": 0.34
+  },
+  {
+    "name": "Betelgeuse",
+    "ra_hours": 5.919529,
+    "dec_deg": 7.407064,
+    "magnitude": 0.42
+  },
+  {
+    "name": "Achernar",
+    "ra_hours": 1.628567,
+    "dec_deg": -57.236757,
+    "magnitude": 0.46
+  },
+  {
+    "name": "Hadar",
+    "ra_hours": 14.063795,
+    "dec_deg": -60.373039,
+    "magnitude": 0.61
+  },
+  {
+    "name": "Altair",
+    "ra_hours": 19.846388,
+    "dec_deg": 8.868322,
+    "magnitude": 0.76
+  },
+  {
+    "name": "Acrux",
+    "ra_hours": 12.443319,
+    "dec_deg": -63.099167,
+    "magnitude": 0.77
+  },
+  {
+    "name": "Aldebaran",
+    "ra_hours": 4.598678,
+    "dec_deg": 16.509302,
+    "magnitude": 0.85
+  },
+  {
+    "name": "Antares",
+    "ra_hours": 16.490127,
+    "dec_deg": -26.432003,
+    "magnitude": 0.96
+  },
+  {
+    "name": "Spica",
+    "ra_hours": 13.419883,
+    "dec_deg": -11.161322,
+    "magnitude": 0.98
+  },
+  {
+    "name": "Pollux",
+    "ra_hours": 7.755381,
+    "dec_deg": 28.026199,
+    "magnitude": 1.14
+  },
+  {
+    "name": "Fomalhaut",
+    "ra_hours": 22.960845,
+    "dec_deg": -29.622237,
+    "magnitude": 1.16
+  },
+  {
+    "name": "Deneb",
+    "ra_hours": 20.690532,
+    "dec_deg": 45.280338,
+    "magnitude": 1.25
+  },
+  {
+    "name": "Mimosa",
+    "ra_hours": 12.795395,
+    "dec_deg": -59.688764,
+    "magnitude": 1.25
+  },
+  {
+    "name": "Ginan",
+    "ra_hours": 12.795395,
+    "dec_deg": -59.688764,
+    "magnitude": 1.25
+  },
+  {
+    "name": "Regulus",
+    "ra_hours": 10.139589,
+    "dec_deg": 11.967208,
+    "magnitude": 1.35
+  },
+  {
+    "name": "Adhara",
+    "ra_hours": 6.977889,
+    "dec_deg": -28.972901,
+    "magnitude": 1.5
+  },
+  {
+    "name": "Castor",
+    "ra_hours": 7.57664,
+    "dec_deg": 31.888316,
+    "magnitude": 1.57
+  },
+  {
+    "name": "Shaula",
+    "ra_hours": 17.560058,
+    "dec_deg": -37.103817,
+    "magnitude": 1.62
+  },
+  {
+    "name": "Gacrux",
+    "ra_hours": 12.519389,
+    "dec_deg": -57.112778,
+    "magnitude": 1.63
+  },
+  {
+    "name": "Bellatrix",
+    "ra_hours": 5.418877,
+    "dec_deg": 6.349703,
+    "magnitude": 1.64
+  },
+  {
+    "name": "Elnath",
+    "ra_hours": 5.438156,
+    "dec_deg": 28.607452,
+    "magnitude": 1.65
+  },
+  {
+    "name": "Miaplacidus",
+    "ra_hours": 9.220288,
+    "dec_deg": -69.717208,
+    "magnitude": 1.67
+  },
+  {
+    "name": "Alnilam",
+    "ra_hours": 5.603559,
+    "dec_deg": -1.201919,
+    "magnitude": 1.69
+  },
+  {
+    "name": "Alnair",
+    "ra_hours": 22.137473,
+    "dec_deg": -46.960974,
+    "magnitude": 1.73
+  },
+  {
+    "name": "Alnitak",
+    "ra_hours": 5.679317,
+    "dec_deg": -1.942574,
+    "magnitude": 1.74
+  },
+  {
+    "name": "Alioth",
+    "ra_hours": 12.900436,
+    "dec_deg": 55.959823,
+    "magnitude": 1.76
+  },
+  {
+    "name": "Dubhe",
+    "ra_hours": 11.062108,
+    "dec_deg": 61.751035,
+    "magnitude": 1.79
+  },
+  {
+    "name": "Mirfak",
+    "ra_hours": 3.405472,
+    "dec_deg": 49.861179,
+    "magnitude": 1.8
+  },
+  {
+    "name": "Wezen",
+    "ra_hours": 7.139959,
+    "dec_deg": -26.393207,
+    "magnitude": 1.83
+  },
+  {
+    "name": "Alkaid",
+    "ra_hours": 13.792407,
+    "dec_deg": 49.313267,
+    "magnitude": 1.85
+  },
+  {
+    "name": "Kaus Australis",
+    "ra_hours": 18.40287,
+    "dec_deg": -34.384616,
+    "magnitude": 1.85
+  },
+  {
+    "name": "Sargas",
+    "ra_hours": 17.621957,
+    "dec_deg": -42.997824,
+    "magnitude": 1.86
+  },
+  {
+    "name": "Avior",
+    "ra_hours": 8.37523,
+    "dec_deg": -59.509555,
+    "magnitude": 1.86
+  },
+  {
+    "name": "Menkalinan",
+    "ra_hours": 5.992094,
+    "dec_deg": 44.947432,
+    "magnitude": 1.9
+  },
+  {
+    "name": "Atria",
+    "ra_hours": 16.811027,
+    "dec_deg": -69.027719,
+    "magnitude": 1.91
+  },
+  {
+    "name": "Alhena",
+    "ra_hours": 6.628568,
+    "dec_deg": 16.39928,
+    "magnitude": 1.93
+  },
+  {
+    "name": "Peacock",
+    "ra_hours": 20.427478,
+    "dec_deg": -56.735102,
+    "magnitude": 1.94
+  },
+  {
+    "name": "Alsephina",
+    "ra_hours": 7.285151,
+    "dec_deg": -40.003166,
+    "magnitude": 1.95
+  },
+  {
+    "name": "Polaris",
+    "ra_hours": 2.530301,
+    "dec_deg": 89.264109,
+    "magnitude": 1.98
+  },
+  {
+    "name": "Alphard",
+    "ra_hours": 9.459792,
+    "dec_deg": -8.658602,
+    "magnitude": 2.0
+  },
+  {
+    "name": "Hamal",
+    "ra_hours": 2.119134,
+    "dec_deg": 23.462388,
+    "magnitude": 2.01
+  },
+  {
+    "name": "Hamel",
+    "ra_hours": 2.119134,
+    "dec_deg": 23.462388,
+    "magnitude": 2.01
+  },
+  {
+    "name": "Diphda",
+    "ra_hours": 0.726962,
+    "dec_deg": -17.986606,
+    "magnitude": 2.04
+  },
+  {
+    "name": "Mizar",
+    "ra_hours": 13.398711,
+    "dec_deg": 54.925372,
+    "magnitude": 2.04
+  },
+  {
+    "name": "Deneb Kaitos",
+    "ra_hours": 0.328514,
+    "dec_deg": -17.986606,
+    "magnitude": 2.04
+  },
+  {
+    "name": "Nunki",
+    "ra_hours": 18.921092,
+    "dec_deg": -26.296737,
+    "magnitude": 2.05
+  },
+  {
+    "name": "Menkent",
+    "ra_hours": 14.111218,
+    "dec_deg": -36.369958,
+    "magnitude": 2.06
+  },
+  {
+    "name": "Mirach",
+    "ra_hours": 1.162369,
+    "dec_deg": 35.62056,
+    "magnitude": 2.07
+  },
+  {
+    "name": "Mirzam",
+    "ra_hours": 6.37834,
+    "dec_deg": -17.955919,
+    "magnitude": 2.07
+  },
+  {
+    "name": "Alpheratz",
+    "ra_hours": 0.139794,
+    "dec_deg": 29.090431,
+    "magnitude": 2.07
+  },
+  {
+    "name": "Kochab",
+    "ra_hours": 14.845127,
+    "dec_deg": 74.155503,
+    "magnitude": 2.07
+  },
+  {
+    "name": "Saiph",
+    "ra_hours": 5.795881,
+    "dec_deg": -9.669606,
+    "magnitude": 2.07
+  },
+  {
+    "name": "Algieba",
+    "ra_hours": 10.332867,
+    "dec_deg": 19.841489,
+    "magnitude": 2.08
+  },
+  {
+    "name": "Rasalhague",
+    "ra_hours": 17.582162,
+    "dec_deg": 12.560002,
+    "magnitude": 2.08
+  },
+  {
+    "name": "Algol",
+    "ra_hours": 3.136134,
+    "dec_deg": 40.955648,
+    "magnitude": 2.09
+  },
+  {
+    "name": "Almach",
+    "ra_hours": 2.064974,
+    "dec_deg": 42.329725,
+    "magnitude": 2.1
+  },
+  {
+    "name": "Denebola",
+    "ra_hours": 11.817662,
+    "dec_deg": 14.572058,
+    "magnitude": 2.14
+  },
+  {
+    "name": "Alphecca",
+    "ra_hours": 15.578478,
+    "dec_deg": 26.714693,
+    "magnitude": 2.22
+  },
+  {
+    "name": "Mintaka",
+    "ra_hours": 5.53339,
+    "dec_deg": -0.299095,
+    "magnitude": 2.23
+  },
+  {
+    "name": "Sadr",
+    "ra_hours": 20.370514,
+    "dec_deg": 40.256714,
+    "magnitude": 2.23
+  },
+  {
+    "name": "Alsuhail",
+    "ra_hours": 9.133056,
+    "dec_deg": -52.099722,
+    "magnitude": 2.23
+  },
+  {
+    "name": "Schedar",
+    "ra_hours": 0.675107,
+    "dec_deg": 56.537331,
+    "magnitude": 2.24
+  },
+  {
+    "name": "Eltanin",
+    "ra_hours": 17.943425,
+    "dec_deg": 51.488896,
+    "magnitude": 2.24
+  },
+  {
+    "name": "Etamin",
+    "ra_hours": 17.943425,
+    "dec_deg": 51.488896,
+    "magnitude": 2.24
+  },
+  {
+    "name": "Naos",
+    "ra_hours": 8.37523,
+    "dec_deg": -40.003166,
+    "magnitude": 2.25
+  },
+  {
+    "name": "Caph",
+    "ra_hours": 0.152958,
+    "dec_deg": 59.149781,
+    "magnitude": 2.28
+  },
+  {
+    "name": "Kang",
+    "ra_hours": 14.261806,
+    "dec_deg": -60.373039,
+    "magnitude": 2.3
+  },
+  {
+    "name": "Merak",
+    "ra_hours": 11.030596,
+    "dec_deg": 56.38243,
+    "magnitude": 2.34
+  },
+  {
+    "name": "Izar",
+    "ra_hours": 14.749945,
+    "dec_deg": 27.074722,
+    "magnitude": 2.35
+  },
+  {
+    "name": "Enif",
+    "ra_hours": 21.736433,
+    "dec_deg": 9.875058,
+    "magnitude": 2.38
+  },
+  {
+    "name": "Phecda",
+    "ra_hours": 11.897189,
+    "dec_deg": 53.69475,
+    "magnitude": 2.41
+  },
+  {
+    "name": "Sabik",
+    "ra_hours": 17.172978,
+    "dec_deg": -15.724861,
+    "magnitude": 2.43
+  },
+  {
+    "name": "Scheat",
+    "ra_hours": 23.062983,
+    "dec_deg": 28.082847,
+    "magnitude": 2.44
+  },
+  {
+    "name": "Alderamin",
+    "ra_hours": 21.30988,
+    "dec_deg": 62.585602,
+    "magnitude": 2.45
+  },
+  {
+    "name": "Tureis",
+    "ra_hours": 8.37523,
+    "dec_deg": -24.304722,
+    "magnitude": 2.45
+  },
+  {
+    "name": "Markeb",
+    "ra_hours": 9.220288,
+    "dec_deg": -55.045833,
+    "magnitude": 2.47
+  },
+  {
+    "name": "Gienah Cygni",
+    "ra_hours": 20.770325,
+    "dec_deg": 33.970257,
+    "magnitude": 2.48
+  },
+  {
+    "name": "Markab",
+    "ra_hours": 23.079921,
+    "dec_deg": 15.205267,
+    "magnitude": 2.49
+  },
+  {
+    "name": "Menkar",
+    "ra_hours": 3.038047,
+    "dec_deg": 4.089727,
+    "magnitude": 2.54
+  },
+  {
+    "name": "Zosma",
+    "ra_hours": 11.235131,
+    "dec_deg": 20.523717,
+    "magnitude": 2.56
+  },
+  {
+    "name": "Gienah",
+    "ra_hours": 12.263575,
+    "dec_deg": -17.541956,
+    "magnitude": 2.58
+  },
+  {
+    "name": "Ascella",
+    "ra_hours": 19.086516,
+    "dec_deg": -29.880063,
+    "magnitude": 2.6
+  },
+  {
+    "name": "Zubeneschamali",
+    "ra_hours": 15.283273,
+    "dec_deg": -9.382901,
+    "magnitude": 2.61
+  },
+  {
+    "name": "Acrab",
+    "ra_hours": 16.090431,
+    "dec_deg": -19.805452,
+    "magnitude": 2.62
+  },
+  {
+    "name": "Unukalhai",
+    "ra_hours": 15.737785,
+    "dec_deg": 6.425554,
+    "magnitude": 2.63
+  },
+  {
+    "name": "Sheratan",
+    "ra_hours": 1.91063,
+    "dec_deg": 20.808075,
+    "magnitude": 2.64
+  },
+  {
+    "name": "Ruchbah",
+    "ra_hours": 1.430085,
+    "dec_deg": 60.235285,
+    "magnitude": 2.66
+  },
+  {
+    "name": "Muphrid",
+    "ra_hours": 13.824244,
+    "dec_deg": 18.397742,
+    "magnitude": 2.68
+  },
+  {
+    "name": "Tarazed",
+    "ra_hours": 19.771981,
+    "dec_deg": 10.613278,
+    "magnitude": 2.72
+  },
+  {
+    "name": "Yed Prior",
+    "ra_hours": 16.305199,
+    "dec_deg": -3.430528,
+    "magnitude": 2.73
+  },
+  {
+    "name": "Zubenelgenubi",
+    "ra_hours": 14.844083,
+    "dec_deg": -16.041811,
+    "magnitude": 2.75
+  },
+  {
+    "name": "Cebalrai",
+    "ra_hours": 17.724648,
+    "dec_deg": 4.5673,
+    "magnitude": 2.76
+  },
+  {
+    "name": "Aspidiske",
+    "ra_hours": 9.28492,
+    "dec_deg": -59.275278,
+    "magnitude": 2.76
+  },
+  {
+    "name": "Hatysa",
+    "ra_hours": 5.708333,
+    "dec_deg": -5.905556,
+    "magnitude": 2.77
+  },
+  {
+    "name": "Rasalgethi",
+    "ra_hours": 17.244192,
+    "dec_deg": 14.390353,
+    "magnitude": 2.78
+  },
+  {
+    "name": "Rastaban",
+    "ra_hours": 17.507977,
+    "dec_deg": 52.301018,
+    "magnitude": 2.79
+  },
+  {
+    "name": "Decrux",
+    "ra_hours": 12.254722,
+    "dec_deg": -58.973889,
+    "magnitude": 2.79
+  },
+  {
+    "name": "Algenib",
+    "ra_hours": 0.22021,
+    "dec_deg": 15.183594,
+    "magnitude": 2.83
+  },
+  {
+    "name": "Vindemiatrix",
+    "ra_hours": 13.036405,
+    "dec_deg": 10.959139,
+    "magnitude": 2.85
+  },
+  {
+    "name": "Deneb Algedi",
+    "ra_hours": 21.78457,
+    "dec_deg": -16.127287,
+    "magnitude": 2.85
+  },
+  {
+    "name": "Alcyone",
+    "ra_hours": 3.79143,
+    "dec_deg": 24.136667,
+    "magnitude": 2.85
+  },
+  {
+    "name": "Fawaris",
+    "ra_hours": 20.300969,
+    "dec_deg": 38.783689,
+    "magnitude": 2.87
+  },
+  {
+    "name": "Fang",
+    "ra_hours": 16.130191,
+    "dec_deg": -19.805452,
+    "magnitude": 2.89
+  },
+  {
+    "name": "Cor Caroli",
+    "ra_hours": 12.900436,
+    "dec_deg": 38.31432,
+    "magnitude": 2.89
+  },
+  {
+    "name": "Sadalsuud",
+    "ra_hours": 21.52574,
+    "dec_deg": -5.571252,
+    "magnitude": 2.9
+  },
+  {
+    "name": "Sadalmelik",
+    "ra_hours": 22.096852,
+    "dec_deg": -0.319857,
+    "magnitude": 2.95
+  },
+  {
+    "name": "Albireo",
+    "ra_hours": 19.512021,
+    "dec_deg": 27.959692,
+    "magnitude": 3.05
+  },
+  {
+    "name": "Alwaid",
+    "ra_hours": 17.530293,
+    "dec_deg": 55.959823,
+    "magnitude": 3.07
+  },
+  {
+    "name": "Albali",
+    "ra_hours": 22.288971,
+    "dec_deg": -7.783061,
+    "magnitude": 3.1
+  },
+  {
+    "name": "Sarin",
+    "ra_hours": 17.250058,
+    "dec_deg": 24.839211,
+    "magnitude": 3.12
+  },
+  {
+    "name": "Talitha",
+    "ra_hours": 8.897454,
+    "dec_deg": 48.042164,
+    "magnitude": 3.12
+  },
+  {
+    "name": "Marfik",
+    "ra_hours": 17.169647,
+    "dec_deg": 24.053347,
+    "magnitude": 3.16
+  },
+  {
+    "name": "Kornephoros",
+    "ra_hours": 16.504153,
+    "dec_deg": 21.48933,
+    "magnitude": 3.16
+  },
+  {
+    "name": "Aldhibah",
+    "ra_hours": 17.147563,
+    "dec_deg": 65.714684,
+    "magnitude": 3.17
+  },
+  {
+    "name": "Errai",
+    "ra_hours": 23.65589,
+    "dec_deg": 77.63248,
+    "magnitude": 3.21
+  },
+  {
+    "name": "Alfirk",
+    "ra_hours": 21.477485,
+    "dec_deg": 70.267547,
+    "magnitude": 3.23
+  },
+  {
+    "name": "Sadachbia",
+    "ra_hours": 22.280775,
+    "dec_deg": -1.387472,
+    "magnitude": 3.27
+  },
+  {
+    "name": "Skat",
+    "ra_hours": 22.910827,
+    "dec_deg": -15.820833,
+    "magnitude": 3.27
+  },
+  {
+    "name": "Megrez",
+    "ra_hours": 12.257037,
+    "dec_deg": 57.032665,
+    "magnitude": 3.32
+  },
+  {
+    "name": "Chort",
+    "ra_hours": 11.846057,
+    "dec_deg": 14.851389,
+    "magnitude": 3.33
+  },
+  {
+    "name": "Segin",
+    "ra_hours": 1.906229,
+    "dec_deg": 63.670062,
+    "magnitude": 3.35
+  },
+  {
+    "name": "Navi",
+    "ra_hours": 0.945405,
+    "dec_deg": 60.71674,
+    "magnitude": 3.37
+  },
+  {
+    "name": "Heze",
+    "ra_hours": 13.57875,
+    "dec_deg": -0.596667,
+    "magnitude": 3.38
+  },
+  {
+    "name": "Meissa",
+    "ra_hours": 5.603559,
+    "dec_deg": 9.934156,
+    "magnitude": 3.39
+  },
+  {
+    "name": "Atlas",
+    "ra_hours": 3.62667,
+    "dec_deg": 24.105556,
+    "magnitude": 3.62
+  },
+  {
+    "name": "Rotanev",
+    "ra_hours": 20.668351,
+    "dec_deg": 14.595144,
+    "magnitude": 3.64
+  },
+  {
+    "name": "Electra",
+    "ra_hours": 3.72635,
+    "dec_deg": 24.113333,
+    "magnitude": 3.72
+  },
+  {
+    "name": "Sualocin",
+    "ra_hours": 20.62619,
+    "dec_deg": 6.143074,
+    "magnitude": 3.77
+  },
+  {
+    "name": "Han",
+    "ra_hours": 16.619505,
+    "dec_deg": 31.602707,
+    "magnitude": 3.8
+  },
+  {
+    "name": "Alrescha",
+    "ra_hours": 2.985037,
+    "dec_deg": 2.76375,
+    "magnitude": 3.82
+  },
+  {
+    "name": "Atik",
+    "ra_hours": 3.1588,
+    "dec_deg": 32.287247,
+    "magnitude": 3.84
+  },
+  {
+    "name": "Maia",
+    "ra_hours": 3.79044,
+    "dec_deg": 24.105556,
+    "magnitude": 3.87
+  },
+  {
+    "name": "Mesarthim",
+    "ra_hours": 1.91063,
+    "dec_deg": 19.29447,
+    "magnitude": 3.88
+  },
+  {
+    "name": "Alcor",
+    "ra_hours": 13.420592,
+    "dec_deg": 54.987953,
+    "magnitude": 3.99
+  },
+  {
+    "name": "Syrma",
+    "ra_hours": 13.836944,
+    "dec_deg": -3.3975,
+    "magnitude": 4.07
+  },
+  {
+    "name": "Merope",
+    "ra_hours": 3.78378,
+    "dec_deg": 23.948333,
+    "magnitude": 4.14
+  },
+  {
+    "name": "Taygeta",
+    "ra_hours": 3.75045,
+    "dec_deg": 24.4675,
+    "magnitude": 4.3
+  },
+  {
+    "name": "Pleione",
+    "ra_hours": 3.73392,
+    "dec_deg": 24.136667,
+    "magnitude": 5.05
+  }
+]
